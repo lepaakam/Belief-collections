@@ -71,8 +71,7 @@
                     "Provides [1] [Uranium] <for every [[Giant Death Robot] Units]>",
                     "Only available <before adopting [Zealotry]>",
                     "Only available <before adopting [Holy Crusade]>",
-                    "Only available <before adopting [Warp Summons]>",
-                    "Only available <before adopting [Atheism]>"]
+                    "Only available <before adopting [Warp Summons]>"]
   },
   {
         "name": "Warp Summons",
@@ -153,9 +152,9 @@
       "[+2]% [Gold] from every follower, up to [20]%"]
   },
   {
-    "name": "Pantheism",
+    "name": "Sigmaism",
     "type": "Pantheon",
-    "uniques": ["[+1 Faith] from every [Friendly Land]","[+1 Science] from every [Ascetic]"]
+    "uniques": ["May choose [2] additional belief(s) of any type when [enhancing] a religion"]
   },
   {
     "name": "Strong Panentheism",
@@ -246,7 +245,7 @@
         "name": "Apostolic Succession",
         "type": "Founder",
         "uniques": ["[+1 Faith, +1 Gold] from all [Culture] buildings <in cities with at least [7] [Followers of this Religion]>",
-                    "May choose [1] additional belief(s) of any type when [enhancing] a religion"]
+                    "May choose [3] additional belief(s) of any type when [enhancing] a religion"]
     },
 {
         "name": "Nihilism",
